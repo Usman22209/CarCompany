@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.BG1{
+    background-image: url(bg.png);
+}
+.BG2{
+    background-image: url(BG2.png);
+}
